@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in machine learning / ai, game development.
-- 🌱 I’m currently learning Python for data science / machine learning.
+- 👀 I’m interested in full stack development, game development.
+- 🌱 I’m currently adding to my knowledge in data structures and algorithms.
 - 💞️ I’m looking to collaborate on open source work.
 - 📫 Jashanrahal6@gmail.com
 
