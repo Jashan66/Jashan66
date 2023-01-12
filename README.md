@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in full stack development, game development.
+- 👀 I’m interested in full stack development and IOS development.
 - 🌱 I’m currently adding to my knowledge in data structures and algorithms.
 - 💞️ I’m looking to collaborate on open source work.
 - 📫 Jashanrahal6@gmail.com
