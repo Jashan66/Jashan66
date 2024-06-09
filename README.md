@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in full stack / mobile development and AI.
-- 🌱 I’m currently adding to my knowledge in data structures and algorithms.
-- 💞️ I’m looking to collaborate on open source work.
+- 👀 I’m interested in finance & AI.
 - 📫 Jashanrahal6@gmail.com
 
 <!---
