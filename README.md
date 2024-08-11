@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in finance & AI.
+- 👀 I’m interested in AR and sports.
 - 📫 Jashanrahal6@gmail.com
 
 <!---
