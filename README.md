@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in AI, Space, Gaming, and Sports
+- ## Jashan Rahal
+- **Tech:** Python • TypeScript • PostgreSQL • Redis • Docker
+- 👀 I’m interested in AI • Space •Gaming • Sports
 - 📫 Jashanrahal6@gmail.com
 
 <!---
