@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jashan Rahal
-- 👀 I’m interested in AR, Computer Vision, Gaming, and Sports.
+- 👀 I’m interested in AI, Space, Gaming, and Sports
 - 📫 Jashanrahal6@gmail.com
 
 <!---
