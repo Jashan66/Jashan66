@@ -1,6 +1,6 @@
 ## Jashan Rahal
 
-🚀 Contributing to [NASA F´ Flight Software](https://github.com/nasa/fprime/pull/4672)
+🚀 Contributing to NASA F´ Flight Software
 
 **Tech:** Python • TypeScript • PostgreSQL • Redis • Docker
 
