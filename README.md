@@ -1,8 +1,6 @@
 ## Jashan Rahal
 
-🚀 Contributing to [NASA F´ Flight Software](https://github.com/nasa/fprime)
-
-**Tech:** Python • TypeScript • PostgreSQL • Redis • Docker
+SPACE - SPORTS - GAMING - MUSIC
 
 📫 Jashanrahal6@gmail.com
 
